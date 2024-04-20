@@ -1,0 +1,35 @@
+.star{
+    width: 3rem; 
+    height: 3rem; 
+    color:black;
+}
+
+/* .star:hover{
+    background-color: rgb(252, 168, 22);
+    opacity: 0.5;
+} */
+
+#submitBtn{
+    width: 20rem;
+}
+
+.card{
+    width: 25rem;
+    background-color: #1e242f;
+    color: white;
+    border-radius: 30px;
+}
+
+p{
+    color: gray;
+}
+
+#starImg{
+    width: 1.5rem;
+}
+
+#thankyouImg{
+    width: 6rem;
+    padding-top: 10px;
+    align-items: center;
+}
